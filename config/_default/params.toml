@@ -5,21 +5,21 @@ rssFullContent = true
 favicon = "/favicon.png"
 
 [footer]
-since = 2020
-customText = ""
+since = 2025
+customText = "Write in byte & Smile in cry."
 
 [dateFormat]
-published = "Jan 02, 2006"
-lastUpdated = "Jan 02, 2006 15:04 MST"
+published = "Jan 01, 2025"
+lastUpdated = "Jan 01, 2025 15:00 MST"
 
 [sidebar]
-emoji = "🍥"
-subtitle = "Lorem ipsum dolor sit amet, consectetur adipiscing elit."
+emoji = "🎉"
+subtitle = "随便写点."
 
 [sidebar.avatar]
 enabled = true
 local = true
-src = "img/avatar.png"
+src = "img/miniq.png"
 
 [article]
 headingAnchor = false
@@ -79,7 +79,7 @@ enabled = true
 enabled = true
 provider = "disqus"
 
-[comments.disqusjs]
+[comments.disqusjs] # CHECK
 shortname = ""
 apiUrl = ""
 apiKey = ""

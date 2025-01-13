@@ -1,33 +1,33 @@
 ---
 title: Links
 links:
-  - title: GitHub
-    description: GitHub is the world's largest software development platform.
-    website: https://github.com
-    image: https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png
+  - title: 南京大学IT侠互助协会
+    description: 侠之大者为国为民，侠之小者为友为邻
+    website: https://itxia.club/
+  - title: 鱼女士的豆瓣
+    description: 怪学妹
+    website: https://www.douban.com/people/168503201
+    image: https://img2.doubanio.com/icon/up168503201-1.jpg
+  - title: 茶栗栗屋
+    description: 
+    website: https://chariri.moe
+    image: avatar_default.jpg
+  - title: Minaduki的博客
+    description: 
+    website: https://www.minaduki.moe/
+    image: avatar_default.jpg
+  - title: jjppp的博客
+    description: 怪学弟
+    website: https://jjppp.github.io/
+    image: https://jjppp.github.io/images/avatar.png
 menu:
     main: 
         weight: 4
         params:
             icon: link
-
 comments: false
+readingTime: false
+license: false
 ---
 
-To use this feature, add `links` section to frontmatter.
-
-This page's frontmatter:
-
-```yaml
-links:
-  - title: GitHub
-    description: GitHub is the world's largest software development platform.
-    website: https://github.com
-    image: https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png
-  - title: TypeScript
-    description: TypeScript is a typed superset of JavaScript that compiles to plain JavaScript.
-    website: https://www.typescriptlang.org
-    image: ts-logo-128.jpg
-```
-
-`image` field accepts both local and external images.
+以下是友人们的链接。
