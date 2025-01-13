@@ -1,5 +1,5 @@
 ---
-title: Links
+title: 友链
 links:
   - title: 南京大学IT侠互助协会
     description: 侠之大者为国为民，侠之小者为友为邻
