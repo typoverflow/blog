@@ -1,0 +1,12 @@
+[data-scheme="light"] {
+    ::selection {
+      background-color: #6d8195;
+      color: white;
+    }
+  }
+[data-scheme="dark"] {
+    ::selection {
+        background-color: rgba($color: #6d8195, $alpha: 0.8);
+        color: black;
+    }
+  }

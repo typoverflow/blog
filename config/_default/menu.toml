@@ -31,4 +31,11 @@ url = "mailto:typoverflow@outlook.com"
 [social.params]
 icon = "mail"
 
+[[main]]
+identifier = "about"
+name = "关于我"
+url = "https://about.gaocx.io"
 
+[main.params]
+icon = "user-cycle"
+newtab = true
