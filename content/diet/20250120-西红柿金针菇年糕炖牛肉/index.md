@@ -24,4 +24,6 @@ hidden: false
 
 口味清淡，少油少盐。但是搞点豆瓣酱意外好吃，亦可填饱肚子。
 
-![](./image.png)
+<center>
+<img src=image.png width=40%>
+</center>
