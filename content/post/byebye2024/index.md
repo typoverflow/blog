@@ -1,6 +1,6 @@
 ---
 title: Bye Bye 2024!
-description: 这个世界会好吗
+description: 在等这个世界会变好的通知
 date: 2025-01-28
 image: heibao.png
 categories:
