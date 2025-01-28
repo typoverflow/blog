@@ -1,6 +1,6 @@
 ---
 title: Bye Bye 2024!
-description: 这个世界会好吗 & 关于博客为什么复活
+description: 这个世界会好吗
 date: 2025-01-28
 image: heibao.png
 categories:
