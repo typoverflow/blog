@@ -30,3 +30,5 @@ weight: 1       # You can add weight to some posts to override the default sorti
 拥抱未知与变化，但希望在新的生活亦能找到舒适的角落。
 
 P.S. 新博客转成静态页面了，还没找到好的评论方案，就不开评论区了，有什么好的方案请砸给我QwQ
+
+P.P.S. 封面的狗狗叫黑豹，毛色很漂亮的一只雪纳瑞串串，虽然鱼女士说它像一块墩布
