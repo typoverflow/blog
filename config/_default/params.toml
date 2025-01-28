@@ -77,7 +77,7 @@ enabled = true
 ## Comments
 [comments]
 enabled = true
-provider = "disqus"
+provider = "gitalk"
 
 [comments.disqusjs] # CHECK
 shortname = ""
@@ -139,11 +139,11 @@ reactionsEnabled = 1
 emitMetadata = 0
 
 [comments.gitalk]
-owner = ""
-admin = ""
-repo = ""
-clientID = ""
-clientSecret = ""
+owner = "typoverflow"
+admin = "typoverflow"
+repo = "typoverflow/blog"
+clientID = "Ov23lip5EvKh0h5seN0O"
+clientSecret = "e30c946b2c10d3f041583335b505e0805bf9f9b7"
 
 [comments.cusdis]
 host = ""
