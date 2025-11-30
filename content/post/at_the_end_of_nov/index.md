@@ -55,5 +55,3 @@ hidden: false
     <figcaption>😈</figcaption>
 </center>
 </figure>
-
-> [1] *20250910-所幸还有蛋炒饭能够复现*. Chenxiao Gao. 2025. 
