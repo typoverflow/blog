@@ -6,6 +6,7 @@ date: 2026-01-06
 categories:
     - 随笔
 weight: 1       # You can add weight to some posts to override the default sorting (date descending)
+hidden: true
 ---
 
 写年终总结的最好时机要么是旧年的最后一天，要么是新年的第一天，但总之绝不会是现在。年底发生的一系列事情彻底击垮了我写下这篇年终总结的勇气。在12月31日的夜晚打开相册，以往种种涌上心头，顿觉虚无缥缈；踌躇再三也憋不出几个破字，转头跟好友说这简直是worst new year's eve ever，便把自己打发了。时隔接近一星期才终于将自己的精神拼凑好，能够平静地思考过去几天发生的一切。
