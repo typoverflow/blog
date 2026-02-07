@@ -20,6 +20,10 @@ links:
     description: 怪学弟
     website: https://jjppp.github.io/
     image: https://jjppp.github.io/images/avatar.png
+  - title: Christine的博客
+    description: Meow
+    website: https://forgottendiver.github.io/
+    image: https://forgottendiver.github.io/img/avatar.png
 menu:
     main: 
         weight: 4
