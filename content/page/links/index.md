@@ -21,7 +21,7 @@ links:
     website: https://jjppp.github.io/
     image: https://jjppp.github.io/images/avatar.png
   - title: Christine的博客
-    description: Meow
+    description: 一位不愿透露姓名的甲方打工人
     website: https://forgottendiver.github.io/
     image: https://forgottendiver.github.io/img/avatar.png
 menu:
